@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20MySQL-darkgreen.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-darkblue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-orange.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-2%20%2F%202983-green.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-5%20%2F%202983-green.svg)&nbsp;
 [![SayThanks](https://img.shields.io/badge/say-thanks-ff4433.svg)](https://saythanks.io/to/kamyu104)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alexzalox.leetcode.solutions)
 
@@ -1300,21 +1300,21 @@
 ## PD
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [Python3](./Python3/create-a-dataframe-from-list.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [Python3](./Python3/get-the-size-of-a-dataframe.py3) | _O(1)_ | _O(1)_       | Easy           |||
-2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [Python3](./Python3/display-the-first-three-rows.py3) | _O(1)_ | _O(1)_       | Easy           |||
-2880 | [Select Data](https://leetcode.com/problems/select-data/) | [Python3](./Python3/select-data.py3) | _O(n)_ | _O(n)_       | Easy           |||
-2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [Python3](./Python3/create-a-new-column.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [Python3](./Python3/drop-duplicate-rows.py3) | _O(n)_ | _O(n)_       | Easy           |||
-2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | [Python3](./Python3/drop-missing-data.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [Python3](./Python3/modify-columns.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [Python3](./Python3/rename-columns.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | [Python3](./Python3/change-data-type.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | [Python3](./Python3/fill-missing-data.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [Python3](./Python3/reshape-data-concatenate.py3) | _O(n + m)_ | _O(1)_       | Easy           |||
-2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) | [Python3](./Python3/reshape-data-pivot.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [Python3](./Python3/reshape-data-melt.py3) | _O(n)_ | _O(1)_       | Easy           |||
-2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/) | [Python3](./Python3/method-chaining.py3) | _O(nlogn)_ | _O(n)_       | Easy           |||
+2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [Pandas](./Pandas/create-a-dataframe-from-list.py) | _O(n)_ | _O(1)_       | Easy           |||
+2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [Pandas](./Pandas/get-the-size-of-a-dataframe.py) | _O(1)_ | _O(1)_       | Easy           |||
+2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [Pandas](./Pandas/display-the-first-three-rows.py) | _O(1)_ | _O(1)_       | Easy           |||
+2880 | [Select Data](https://leetcode.com/problems/select-data/) | [Pandas](./Pandas/select-data.py) | _O(n)_ | _O(n)_       | Easy           |||
+2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [Pandas](./Pandas/create-a-new-column.py) | _O(n)_ | _O(1)_       | Easy           |||
+2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [Pandas](./Pandas/drop-duplicate-rows.py) | _O(n)_ | _O(n)_       | Easy           |||
+2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | [Pandas](./Pandas/drop-missing-data.py) | _O(n)_ | _O(1)_       | Easy           |||
+2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [Pandas](./Pandas/modify-columns.py) | _O(n)_ | _O(1)_       | Easy           |||
+2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [Pandas](./Pandas/rename-columns.py) | _O(n)_ | _O(1)_       | Easy           |||
+2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | [Pandas](./Pandas/change-data-type.py) | _O(n)_ | _O(1)_       | Easy           |||
+2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | [Pandas](./Pandas/fill-missing-data.py) | _O(n)_ | _O(1)_       | Easy           |||
+2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [Pandas](./Pandas/reshape-data-concatenate.py) | _O(n + m)_ | _O(1)_       | Easy           |||
+2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) | [Pandas](./Pandas/reshape-data-pivot.py) | _O(n)_ | _O(1)_       | Easy           |||
+2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [Pandas](./Pandas/reshape-data-melt.py) | _O(n)_ | _O(1)_       | Easy           |||
+2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/) | [Pandas](./Pandas/method-chaining.py) | _O(nlogn)_ | _O(n)_       | Easy           |||
 
 <br/>
 <div align="right">
