@@ -7,9 +7,11 @@
 [![SayThanks](https://img.shields.io/badge/say-thanks-ff4433.svg)](https://saythanks.io/to/kamyu104)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alexzalox.leetcode.solutions)
 
-* Question: [Top-sql-50](https://leetcode.com/studyplan/top-sql-50/)
+* Question: [Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-* Question: [introduction-to-pandas](https://leetcode.com/studyplan/introduction-to-pandas/)
+* Question: [30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/)
+
+* Question: [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/)
 
 * Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
